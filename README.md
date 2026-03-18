@@ -1,2 +1,0 @@
-# alpha-store
-developer
